@@ -42,9 +42,7 @@
 			<Add option="-m64" />
 			<Add library="comdlg32" />
 			<Add library="gdi32" />
-			<Add library="ole32" />
 			<Add library="stdc++fs" />
-			<Add library="uuid" />
 		</Linker>
 		<Unit filename="../../../nana1-7-2-hotfix/source/any.cpp" />
 		<Unit filename="../../../nana1-7-2-hotfix/source/audio/detail/audio_device.cpp" />
@@ -88,7 +86,6 @@
 		<Unit filename="../../../nana1-7-2-hotfix/source/gui/detail/window_layout.cpp" />
 		<Unit filename="../../../nana1-7-2-hotfix/source/gui/detail/window_manager.cpp" />
 		<Unit filename="../../../nana1-7-2-hotfix/source/gui/detail/window_register.hpp" />
-		<Unit filename="../../../nana1-7-2-hotfix/source/gui/dragdrop.cpp" />
 		<Unit filename="../../../nana1-7-2-hotfix/source/gui/dragger.cpp" />
 		<Unit filename="../../../nana1-7-2-hotfix/source/gui/drawing.cpp" />
 		<Unit filename="../../../nana1-7-2-hotfix/source/gui/effects.cpp" />
@@ -113,7 +110,6 @@
 		<Unit filename="../../../nana1-7-2-hotfix/source/gui/widgets/form.cpp" />
 		<Unit filename="../../../nana1-7-2-hotfix/source/gui/widgets/group.cpp" />
 		<Unit filename="../../../nana1-7-2-hotfix/source/gui/widgets/label.cpp" />
-		<Unit filename="../../../nana1-7-2-hotfix/source/gui/widgets/listbox.cpp" />
 		<Unit filename="../../../nana1-7-2-hotfix/source/gui/widgets/menu.cpp" />
 		<Unit filename="../../../nana1-7-2-hotfix/source/gui/widgets/menubar.cpp" />
 		<Unit filename="../../../nana1-7-2-hotfix/source/gui/widgets/panel.cpp" />
