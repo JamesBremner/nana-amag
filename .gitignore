@@ -1,0 +1,11 @@
+
+*.exe
+*.o
+*.depend
+*.layout
+*.log
+
+bin/*
+
+
+
