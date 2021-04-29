@@ -10,4 +10,6 @@ The idea for this approach arose from the SQLite database engine which demonstra
 
 The codeblocks project for building the application is in `build/codeblocks`.  I welcome additional projects, please add them into a folder names `build/your_favourite_ide`.
 
+This code is no longer supported.  If the concept interests you, please check out windex ( https://github.com/JamesBremner/windex ) which grew out of this work and is supported.
+
  
